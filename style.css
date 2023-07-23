@@ -274,12 +274,12 @@
     opacity: 0.5;
     position: absolute;
     border-radius: 50%;
-    border: 0.1px solid transparent;
+    border: 3px solid transparent;
     transition: 0.5s ease;
 }
 
 .text>a>span:hover {
-    border: 0.1px solid aqua;
+    border: 3px solid aqua;
     color: aqua;
     top: 50px;
     opacity: 1;
@@ -332,7 +332,7 @@
     opacity: 0.5;
     position: absolute;
     border-radius: 50%;
-    border: 0.1px solid transparent;
+    border: 3px solid transparent;
     transition: 0.5s ease;
     transform: rotate(180deg);
     margin-top: 50px;
@@ -340,7 +340,7 @@
 }
 
 .downText>a>span:hover {
-    border: 0.1px solid aqua;
+    border: 3px solid aqua;
     color: aqua;
     top: 30px;
     opacity: 1;
